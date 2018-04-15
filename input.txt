@@ -1,0 +1,13 @@
+Harold Finch<harold@alias.me>():<>
+Dewey Finn<dfinn2003@gmail.com>(School of Rock):<principal@gppr.edu>
+Rosalie Mullins<principal@gppr.edu>(School of Rock):<dfinn2003@gmail.com>
+Andy Hwang<andy@toronto.edu>(University of Waterloo, University of Toronto):<blaw@cdf.toronto.edu>
+Brian Law<blaw@cdf.toronto.edu>(Urban Technical School, University of Waterloo, University of Toronto):<liudavid@cdf.toronto.edu,lungj@cdf.toronto.edu,dr@evil.net,andy@toronto.edu>
+Dr Evil<dr@evil.net>(University of Waterloo, Queen's University, Evil Medical School):<blaw@cdf.toronto.edu,henry@hyde.net,hl@imaeatchu.com>
+Hannibal Lecter<hl@imaeatchu.com>(School of Hard Knocks,Evil Medical School):<dr@evil.net,annie@mgo.org>
+Annie<annie@mgo.org>(School of Hard Knocks):<henry@hyde.net,hl@imaeatchu.com>
+Henry Jekyll<henry@hyde.net>(Evil Medical School):<annie@mgo.org,dr@evil.net,anya@cdf.toronto.edu>
+Anya Tafliovich<anya@cdf.toronto.edu>(University of Toronto):<henry@hyde.net,sengels@cdf.toronto.edu,liudavid@cdf.toronto.edu>
+Steve Engels<sengels@cdf.toronto.edu>(Urban Technical School,University of Waterloo):<anya@cdf.toronto.edu,lungj@cdf.toronto.edu,liudavid@cdf.toronto.edu>
+Jonathan Lung<lungj@cdf.toronto.edu>(Urban Technical School,University of Toronto):<sengels@cdf.toronto.edu,liudavid@cdf.toronto.edu,blaw@cdf.toronto.edu>
+David Liu<liudavid@cdf.toronto.edu>(Urban Technical School, Queen's University, University of Toronto):<anya@cdf.toronto.edu,sengels@cdf.toronto.edu,lungj@cdf.toronto.edu,blaw@cdf.toronto.edu>
