@@ -8,3 +8,4 @@
 # CSCC11-Machine-Learning
 # ECM-B12-Quantitative-Methods-in-Economics-II
 # MGEC72-Financial-Economics
+# CSC148-Introduction-to-Computer-Science
